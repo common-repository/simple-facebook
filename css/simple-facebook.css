@@ -1,0 +1,83 @@
+
+/** facebook stuff **/
+.message-item {
+    margin-bottom: 15px;
+    position: relative;
+}
+.message-item .message-inner {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 10px;
+    position: relative;
+}
+.clearfix:before, .clearfix:after {
+    content: " ";
+    display: table;
+}
+.message-item .message-head {
+    border-bottom: 1px solid #eee;
+    margin-bottom: 4px;
+    padding-bottom: 4px;
+}
+.message-item .message-head .avatar {
+    margin-right: 20px;
+}
+.message-item .message-head .user-detail {
+    overflow: hidden;
+}
+.message-item .message-head .user-detail h5 {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+}
+.message-item .message-head .post-meta {
+    float: left;
+    padding: 0 5px 0 0;
+}
+.message-item .message-head .post-meta >div {
+    color: #333;
+    font-weight: bold;
+    text-align: right;
+}
+.post-meta > div {
+    color: #777;
+    font-size: 12px;
+    line-height: 22px;
+}
+
+
+.user-title a{
+    font-size:0.9rem;
+}
+
+.qa-message-when-data {
+    font-weight:200;
+    font-style: italic;
+    font-size: 8px;
+}
+
+.post-info-description {
+    word-break: break-word;
+    overflow: hidden;
+
+}
+
+.qa-message-footer {
+    border-top: 1px solid #eee;
+    padding:5px 0;
+    font-size:0.7rem;    
+
+}
+
+.post-picture img { 
+    margin:auto;
+}
+
+
+.page-title h3, .page-title h2, .post-title h2, .post-title h3 {
+    font-size:1.1rem;
+    text-align:center;
+    font-style: italic;
+    margin-bottom:40px;
+}

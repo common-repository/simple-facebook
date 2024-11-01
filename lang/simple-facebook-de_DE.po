@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: simple-facebook\n"
+"POT-Creation-Date: 2016-02-17 14:31+0100\n"
+"PO-Revision-Date: 2016-02-17 14:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: Emanuel Seibold <info@seiboldsoft.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_n:1,2;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/Facebook_Settings.php:61
+msgid "Facebook Access Token"
+msgstr "Facebook Access Token"
+
+#: inc/Facebook_Settings.php:68 inc/Feeds_List_Table.php:34
+msgid "Name"
+msgstr "Name"
+
+#: inc/Feeds_Create_Entry.php:55 inc/Feeds_Edit_Entry.php:62
+msgid "Feed Name"
+msgstr "Feed Name"
+
+#: inc/Feeds_Create_Entry.php:60 inc/Feeds_Edit_Entry.php:67
+msgid "Feed Type"
+msgstr "Feed Art"
+
+#: inc/Feeds_Create_Entry.php:63
+msgid "Username"
+msgstr "Feed Benutzername"
+
+#: inc/Feeds_Create_Entry.php:64
+msgid "Group"
+msgstr "Feed Gruppe"
+
+#: inc/Feeds_Create_Entry.php:65
+msgid "Page"
+msgstr "Seite"
+
+#: inc/Feeds_Create_Entry.php:71 inc/Feeds_Edit_Entry.php:78
+msgid "Insert the ID of the Username, Group or Page"
+msgstr "ID des Benutzernamens, Gruppe oder Seite angeben"
+
+#: inc/Feeds_Create_Entry.php:75
+msgid "Number of Photos/Pages"
+msgstr "Anzahl der Photos/Seiten"
+
+#: inc/Feeds_Create_Entry.php:79
+msgid "Number of Columns"
+msgstr "Anzahl der Spalten"
+
+#: inc/Feeds_Create_Entry.php:91 inc/Feeds_Edit_Entry.php:100
+msgid "Template"
+msgstr "Vorlage"
+
+#: inc/Feeds_Create_Entry.php:109 inc/Feeds_Edit_Entry.php:118
+msgid "Show Likes"
+msgstr "Zeige Likes"
+
+#: inc/Feeds_Create_Entry.php:113 inc/Feeds_Edit_Entry.php:122
+msgid "Show Description"
+msgstr "Zeige Beschreibung"
+
+#: inc/Feeds_Create_Entry.php:117 inc/Feeds_Edit_Entry.php:126
+msgid "Show Comments"
+msgstr "Zeige Kommentare"
+
+#: inc/Feeds_Create_Entry.php:121 inc/Feeds_Edit_Entry.php:130
+msgid "Show Usernames"
+msgstr "Zeige Benutzernamen"
+
+#: inc/Feeds_Create_Entry.php:125 inc/Feeds_Edit_Entry.php:134
+msgid "Show Shares"
+msgstr "Zeige Shares"
+
+#: inc/Feeds_Create_Entry.php:129 inc/Feeds_Edit_Entry.php:138
+msgid "Show Number of Images"
+msgstr "Zeige Anzahl der Bilder"
+
+#: inc/Feeds_Create_Entry.php:133 inc/Feeds_Edit_Entry.php:142
+msgid "Show Images"
+msgstr "Zeige Bilder"
+
+#: inc/Feeds_Create_Entry.php:137 inc/Feeds_Edit_Entry.php:146
+msgid "Show View Link"
+msgstr "Zeige \"View\" Link"
+
+#: inc/Feeds_Create_Entry.php:141 inc/Feeds_Edit_Entry.php:150
+msgid "Show Share Link"
+msgstr "Zeige \"Share\" Link"
+
+#: inc/Feeds_Create_Entry.php:145 inc/Feeds_Edit_Entry.php:154
+msgid "Text Length (-1 for unlimited)"
+msgstr "Textlänge (-1 für unbegrenzt)"
+
+#: inc/Feeds_Create_Entry.php:149 inc/Feeds_Edit_Entry.php:158
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: inc/Feeds_Edit_Entry.php:82
+msgid "Numer of Photos/Entrys"
+msgstr "Anzahl der Fotos/Einträge"
+
+#: inc/Feeds_Edit_Entry.php:86
+msgid "Numer of Columns"
+msgstr "Anzahl der Spalten"
+
+#: inc/Feeds_List_Table.php:35
+msgid "Type"
+msgstr "Art"
+
+#: inc/Feeds_List_Table.php:36
+msgid "Published"
+msgstr "Veröffentlicht"
+
+#: inc/Feeds_List_Table.php:37
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: inc/Feeds_List_Table.php:38
+msgid "Delete"
+msgstr "Löschen"
+
+#: simple-facebook.php:109
+msgid "Facebook"
+msgstr "Facebook"
+
+#: simple-facebook.php:109
+msgid "Facebook Configuration"
+msgstr "Facebook Einstellungen"
+
+#: simple-facebook.php:110
+msgid "Customize Feeds"
+msgstr "Feed bearbeiten"
+
+#: simple-facebook.php:111
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: simple-facebook.php:127
+msgid "Facebook Feeds"
+msgstr "Facebook Feeds"
